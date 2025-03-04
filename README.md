@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AmcaQt and I'm a Newbie CTF Player.</h2>
+<h2 align="left">Hi 👋! My name is AmcaQt and I'm a Rookie CTF Player.</h2>
 
 ###
 
