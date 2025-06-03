@@ -69,4 +69,3 @@
 | ---------- | ------ |
 | Cyber Hacktics - DEADFACE CTF 2024 | <img src="img/Cyber Hacktics - DEADFACE CTF 2024 Competitor - 2024-10-19.png" height="225"> |
 | Spooky CTF | <img src="img/NJIT Information & Cybersecurity Club - SpookyCTF 2024 Cyber Challenger - 2024-11-02.png" height="225px"> | 
-|
